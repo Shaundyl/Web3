@@ -1,0 +1,9 @@
+[submodule "alipio-crud"]
+	path = alipio-crud
+	url = https://github.com/Shaundyl/alipio-crud.git
+[submodule "alipio-eloquent-relationships"]
+	path = alipio-eloquent-relationships
+	url = https://github.com/Shaundyl/alipio-eloquent-relationships.git
+[submodule "alipio-usjr-project"]
+	path = alipio-usjr-project
+	url = https://github.com/Shaundyl/alipio-usjr-project.git
